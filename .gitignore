@@ -1,3 +1,6 @@
+# Created by https://www.gitignore.io
+
+### Android ###
 # Built application files
 *.apk
 *.ap_
@@ -25,3 +28,7 @@ proguard/
 
 # Log Files
 *.log
+
+### Android Patch ###
+gen-external-apklibs
+
